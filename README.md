@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Minh
 
-<!--
-**ilov3gam3/ilov3gam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Fullstack Developer  
+Java | Spring Boot | REST APIs  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Backend: Spring Boot, Spring MVC, JPA
+- Frontend: VueJS
+- Database: MySQL, PostgreSQL
+- Tools: Docker, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Barber Shop Management System (Spring Boot, JWT)
+- Co-Work Auction Platform (Microservices, Spring Cloud)
+
+### 📫 Contact
+- Email: tranquangminh116@gmail.com
+- GitHub: https://github.com/ilov3gam3
